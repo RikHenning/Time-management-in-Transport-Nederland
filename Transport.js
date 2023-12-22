@@ -1,4 +1,4 @@
 
 
 
-const employees = [{'availability':''}, {'planned':''}, {'worked':''}, {'hrTime':''}];
+const employees = [{'availability':''}, {'planned':''}, {'worked':''}, {'hrTime':''}, {'invoiceTime':''}];
